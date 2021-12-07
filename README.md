@@ -14,3 +14,5 @@ Dataset is then split up into,
 Train images      : 27975
 Validation images : 3105
 Test images       : 5500 
+
+![fruits](https://user-images.githubusercontent.com/40123845/144986912-11c21238-0b4b-4307-84c1-28788e031b8d.png)
